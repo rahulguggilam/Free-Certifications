@@ -171,6 +171,7 @@ Check them out and take advantage of amazing free resources!
 | AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
 | AI | LinkedIn | Career Essentials in Generative AI by Microsoft and LinkedIn | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | Unknown |
 | AI | HuggingFace | Free online course and certification for Deep Reinforcement Learning | [Link](https://huggingface.co/learn/deep-rl-course) | Unlimited |
+| MATLAB | MathWorks | Free self-paced introductory course to learn the basics of MATLAB programming and environment | [Link](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)| Unknown |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
